@@ -22,6 +22,6 @@
     "prettier": "^2.0.5"
   },
   "browserslist": [
-    "last 2 Firefox versions"
+    "last 2 versions"
   ]
 }
